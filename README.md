@@ -12,5 +12,8 @@
 ## animejs Time 4
 ![image](https://github.com/DC-FS04-SUL/Libs_equips/assets/19413241/439c8f59-39db-4724-bfe8-3660eddc0768)
 
+## teachablemachine time 5
+![image](https://github.com/DC-FS04-SUL/Libs_equips/assets/19413241/54972cf3-f88b-4172-a753-f517bd59687c)
+
 
 
