@@ -15,5 +15,8 @@
 ## teachablemachine time 5
 ![image](https://github.com/DC-FS04-SUL/Libs_equips/assets/19413241/54972cf3-f88b-4172-a753-f517bd59687c)
 
+## fullcalendar time 6
+![image](https://github.com/DC-FS04-SUL/Libs_equips/assets/19413241/74427c7c-8306-4a22-b840-5baff2542e4f)
+
 
 
